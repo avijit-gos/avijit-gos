@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @avijit-gos
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning React ecosystem.
 - 📫 email: avijitgo.1408@gmail.com
 
 <!---
