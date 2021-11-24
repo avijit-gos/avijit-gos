@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @avijit-gos
-- 📫 email: avijitgo.1408@gmail.com
+- 📫 email: avijitgo.1408@gmail.com / avijitt.1408@gmail.com
 
 <!---
 avijit-gos/avijit-gos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
