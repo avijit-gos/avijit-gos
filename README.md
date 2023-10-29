@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [TODO](https://github.com/avijit-gos/Modern-TODO-app.git)
+- 🔭 I’m currently working on [Social media project](git@github.com:avijit-gos/social-backend.git)
 
 - 🌱 I’m currently learning **Typescript**
 
